@@ -1,2 +1,5 @@
 # Background-removal
-Removing the background from half-length portrait image using soft-segmentation UNet Architecture and replacing it with a new background using alpha blending
+
+## Poster
+
+![Test Image 4](https://github.com/IordachescuAnca/Background-removal/blob/main/poster.jpg)
